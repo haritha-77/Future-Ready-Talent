@@ -23,3 +23,5 @@ Exercise is a celebration of what your body can do,not a punishment for somethin
 Classes are being divided into basic,pro and premium.People can choose one of them  and can select the instructor
 
 ![ss10](https://user-images.githubusercontent.com/110844099/183469930-79ec8d31-8bf4-4571-bd4a-37dfec20087b.jpg)
+
+This is the link for webpage:https://white-beach-0aa57d310.1.azurestaticapps.net
